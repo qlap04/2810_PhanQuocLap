@@ -15,4 +15,4 @@ spring:
   web:
     locale: vi_VN
 server:
-  port: 8083
+  port: 8089
